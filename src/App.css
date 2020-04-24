@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+ 
+}
+.Header {
+color: white;
+  font-family: Cursive;
+  font-size: 40px;
+}
+.SearchBar {
+  width: 20rem;
+  height: 25px;
+}
+ 
+ul {
+ 
+  display: inline-block;
+}
+ 
+ul {
+  margin: 0 auto;
+  text-align: center;
+ 
+}
+ 
+.ListItem {
+ 
+  width: 100px;
+  padding: 3px;
+  margin: 2px;
+  text-align: left;
+  border-bottom: 1px solid lightblue;
+  cursor: pointer;
+  display: flex;
+  align-content: right;
+ 
+}
+header {
+height: 80px;
+padding: 8px;
+border-bottom: 1 px solid red;
+font-size: large;
+margin-bottom: 16px;
+ 
+background-color: beige;
+ 
+ 
+}
+ 
+ 
+header.blue {
+  background-color: blueviolet;
+}
+ 
+header.grey {
+background-color: grey;
+ 
+}
+li label{
+ 
+  width: 30%;
+  font-style: italic;
+  font-weight: 300;
+  float:right;
+}
+ 
+element{
+  font-weight: 600;
+}
+
+
+.lista {
+
+  display: inline-block;
+  text-align: center;
+ 
+}
