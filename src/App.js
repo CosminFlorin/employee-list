@@ -22,7 +22,7 @@ class App  extends  Component {
   }
   render(){
    
-    const time =new Date()
+    // const time =new Date()
   return (
     <div className="App">
    <Header variant="blue">
